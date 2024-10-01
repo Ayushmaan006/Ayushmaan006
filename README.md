@@ -3,8 +3,6 @@
 - 🌱 I’m currently SQL and Python 
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach - @ Dan06digi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Ayushmaan006/Ayushmaan006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
